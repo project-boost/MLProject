@@ -1,5 +1,3 @@
-.
-
 🚗 Car Price Prediction Using Machine Learning
 
 A machine learning project that predicts used car prices based on features such as brand, model year, mileage, engine capacity, and more. The project includes data preprocessing, exploratory data analysis (EDA), model building, and performance comparison across multiple algorithms.
